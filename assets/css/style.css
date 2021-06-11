@@ -81,13 +81,13 @@
 }
 
 html {
-    font-family:"Ashby Bold";
+    font-family:"Corbel";
     font-size: 62.5%;
     -webkit-font-smoothing: antialiased;
 }
 
 body {
-    font-family:"Ashby Bold";
+    font-family:"Corbel";
     background: #fff;
     font-weight: bold;
     font-size: 15px;
@@ -132,6 +132,7 @@ textarea {
 }
 
 .logo a {
+    font-family:"Ashby Bold", sans-serif;
     display: inline-block;
 }
 
@@ -144,11 +145,13 @@ textarea {
     margin-left: 45%;
 }
 .logo_name a .nam {
+    font-family:"Ashby Bold", sans-serif;
     font-size: 24px;
     text-align: center;
     white-space: nowrap;
 }
 .p{
+    font-family:"Ashby Bold", sans-serif;
     white-space: nowrap;
     padding-left: 40px;
     font-size: 16px;
@@ -1154,8 +1157,7 @@ END Call To Action
 .popup h2{
     font-weight: bold;
 }
-.popup p{
-
+.popup p h3{
     font-family: "Corbel";
     font-weight:400;
     text-align: justify;
@@ -1547,7 +1549,7 @@ END Contact Area
     font-size: 16px;
     color: #555555;
     line-height: 13px;
-    font-family:"Ashby Bold", sans-serif;
+    font-family:"Corbel", sans-serif;
     letter-spacing: 0;
 }
 
